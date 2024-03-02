@@ -84,7 +84,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone git@github.com:emredkyc/3d_portfolio.git
+https://github.com/vidit1994/3d-portfolio-Next.js.git
 cd 3d_portfolio
 ```
 
